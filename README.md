@@ -9,7 +9,6 @@ Projeto feito com a finalidade de estudar react-router e styled-components.
   <li>React Router</li>
   <li>Styled Components</li>
   <li>React Helmet</li>
-  <li>ReactJS</li>
 </ul>
 
 ## Sobre:
